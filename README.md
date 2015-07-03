@@ -1,0 +1,2 @@
+# ModbusCRC16
+这是一个符合modbus协议的CRC16校验算法的java代码的实现
